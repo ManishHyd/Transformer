@@ -1,0 +1,4 @@
+*.zip
+_*
+audio/*
+meta/*
